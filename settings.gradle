@@ -1,0 +1,2 @@
+rootProject.name='apoyo'
+include ':app'
